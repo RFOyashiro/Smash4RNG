@@ -1,0 +1,21 @@
+Joueur 4 (4) a fait 3 matchs
+avec 3 victoires (100%)
+
+Joueur 2 (2) a fait 1 matchs
+avec 1 victoires (100%)
+
+Joueur 1 (1) a fait 1 matchs
+avec 1 victoires (100%)
+
+Joueur 5 (5) a fait 2 matchs
+avec 0 victoires (0%)
+
+Joueur 3 (3) a fait 1 matchs
+avec 0 victoires (0%)
+
+Joueur 6 (6) a fait 1 matchs
+avec 0 victoires (0%)
+
+Joueur 7 (7) a fait 1 matchs
+avec 0 victoires (0%)
+
